@@ -1,0 +1,14 @@
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\bin\Debug\net8.0\Programa24.exe
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\bin\Debug\net8.0\Programa24.deps.json
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\bin\Debug\net8.0\Programa24.runtimeconfig.json
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\bin\Debug\net8.0\Programa24.dll
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\bin\Debug\net8.0\Programa24.pdb
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.AssemblyInfoInputs.cache
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.AssemblyInfo.cs
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.csproj.CoreCompileInputs.cache
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.dll
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\refint\Programa24.dll
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.pdb
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\Programa24.genruntimeconfig.cache
+C:\Users\where\OneDrive\Desktop\UAA\MisProgramas\Programa24\obj\Debug\net8.0\ref\Programa24.dll
